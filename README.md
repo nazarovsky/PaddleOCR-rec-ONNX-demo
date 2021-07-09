@@ -30,4 +30,4 @@ python3 demo_razmetka.py
 
 ![1](output/rec_test_crop_01_out.jpg)
 
-![2](output/rec_test_crop_01_out.jpg)
+![2](output/rec_test_crop_02_out.jpg)
