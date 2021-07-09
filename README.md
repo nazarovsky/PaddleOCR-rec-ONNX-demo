@@ -27,6 +27,7 @@ python3 demo_razmetka.py
 
 # Examples
 
-[[output/rec_test_crop_01_out.jpg]]
 
-[[output/rec_test_crop_01_out.jpg]]
+![1](output/rec_test_crop_01_out.jpg)
+
+![2](output/rec_test_crop_01_out.jpg)
