@@ -13,6 +13,7 @@ To export ONNX model add following lines after `model.eval()` in the `tools\expo
         paddle.onnx.export(model, os.path.join(config['Global']['save_inference_dir'],'rec_db'), input_spec=[input_spec], opset_version=10, enable_onnx_checker=True)
 ###
 ```
+NB Not all of the recognition models can be converted to ONNX (e.g. STARNet), because of the specific ops in Paddle which are missing from ONNX.
 
 and run 
 
